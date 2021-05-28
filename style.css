@@ -1,0 +1,19 @@
+h1 {
+	text-align: center;
+}
+
+span {
+	color: #845bb3;
+}
+
+#ball{
+width:150px;
+height:150px;
+background-color:#845bb3;
+border-radius:50%;
+border:5px solid #ff54ca;
+position:relative;
+top:200px;
+left:500px;
+transition: left 1s, top 1s;
+}
